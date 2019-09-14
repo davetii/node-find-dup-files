@@ -1,0 +1,24 @@
+{
+  "name": "find-dup-files",
+  "version": "1.0.0",
+  "description": "Given a folder walk the file system and find all duplicate files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davetii/node-find-dup-files.git"
+  },
+  "author": "davetii@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davetii/node-find-dup-files/issues"
+  },
+  "homepage": "https://github.com/davetii/node-find-dup-files#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "klaw": "^3.0.0",
+    "lodash": "^4.17.15"
+  }
+}
