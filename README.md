@@ -1,2 +1,2 @@
 # node-find-dup-files
-File Comparison in Node
+Crawl through a directory and all of its subdirectories to find duplicate files
